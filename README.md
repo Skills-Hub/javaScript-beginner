@@ -31,12 +31,13 @@ For attending exams or more details please visti: https://skillstest.me/
 
 Some exam sets have been added to Skillstest. Where you may go to test your knowledge by taking MCQ examinations. The exam URLs are as follows:
 
-1) JavaScript For Beginner - 01 (https://skillstest.me/exam/details/67/javascript-for-beginner-01)
-2) JavaScript For Beginner - 02 (https://skillstest.me/exam/details/68/javascript-for-beginner-02)
-3) JavaScript For Beginner - 03 (https://skillstest.me/exam/details/69/javascript-for-beginner-03)
-4) JavaScript For Beginner - 04 (https://skillstest.me/exam/details/70/javascript-for-beginner-04)
-5) JavaScript For Beginner - 05 (https://skillstest.me/exam/details/71/javascript-for-beginner-05)
-6) JavaScript For Beginner - 06 (https://skillstest.me/exam/details/72/javascript-for-beginner-06)
-7) JavaScript For Beginner - 07 (https://skillstest.me/exam/details/73/javascript-for-beginner-07)
-8) JavaScript For Beginner - 08 (https://skillstest.me/exam/details/74/javascript-for-beginner-08)
-9) JavaScript For Beginner - 09 (https://skillstest.me/exam/details/75/javascript-for-beginner-09)
+01) JavaScript For Beginner - 01 (https://skillstest.me/exam/details/67/javascript-for-beginner-01)
+02) JavaScript For Beginner - 02 (https://skillstest.me/exam/details/68/javascript-for-beginner-02)
+03) JavaScript For Beginner - 03 (https://skillstest.me/exam/details/69/javascript-for-beginner-03)
+04) JavaScript For Beginner - 04 (https://skillstest.me/exam/details/70/javascript-for-beginner-04)
+05) JavaScript For Beginner - 05 (https://skillstest.me/exam/details/71/javascript-for-beginner-05)
+06) JavaScript For Beginner - 06 (https://skillstest.me/exam/details/72/javascript-for-beginner-06)
+07) JavaScript For Beginner - 07 (https://skillstest.me/exam/details/73/javascript-for-beginner-07)
+08) JavaScript For Beginner - 08 (https://skillstest.me/exam/details/74/javascript-for-beginner-08)
+09) JavaScript For Beginner - 09 (https://skillstest.me/exam/details/75/javascript-for-beginner-09)
+10) JavaScript For Beginner - 10 (https://skillstest.me/exam/details/76/javascript-for-beginner-10)
