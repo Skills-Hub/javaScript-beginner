@@ -59,3 +59,4 @@ Some exam sets have been added to Skillstest. Where you may go to test your know
 26) JavaScript For Beginner - 26 (https://skillstest.me/exam/details/92/javascript-for-beginner-26)
 27) JavaScript For Beginner - 27 (https://skillstest.me/exam/details/93/javascript-for-beginner-27)
 28) JavaScript For Beginner - 28 (https://skillstest.me/exam/details/94/javascript-for-beginner-28)
+29) JavaScript For Beginner - 29 (https://skillstest.me/exam/details/95/javascript-for-beginner-29)
